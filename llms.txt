@@ -1,0 +1,37 @@
+# AccountingHouse
+
+> Accounting-practice showroom for FallHub. Sovereign AI-first OS for UK bookkeepers, self-assessment agents, VAT specialists, corporation tax bureaux, and payroll teams. Client-portfolio kernel · HMRC deadline calendar · missing-docs autopilot · HMRC letter drafting via FallBrief case-law grounding · MTD-ready. Published by AI-Native Solutions. MIT. ◊·κ=1.
+
+## What it is
+
+AccountingHouse is a vertical showroom pointing at:
+- FallHub's accounting-practice vertical template
+- FallForge's concierge installer
+- The practice module stack (FallAccount, FallBrief, FallSecurity, FallCRM Elite, Botler, KardV5)
+
+Any UK accounting practice can deploy FallHub with the AccountingHouse configuration and get an AI-first operating system that handles deadline tracking, missing-docs chase, HMRC letter drafting, return preparation, client onboarding, and fee chasing.
+
+## Signature feature: client-portfolio kernel with per-client sub-kernels
+
+Each client has: entity type, accounting reference date, VAT scheme, HMRC references, chase-style tone (chaotic vs on-top), fee arrangement. AI grounds every draft in the specific client's sub-kernel. Chaotic sole trader gets warm-nudge messaging. On-top Ltd director gets formal-precise messaging.
+
+## Modules typically installed
+
+- FallAccount — bookkeeping engine, VAT, MTD, P&L, tax computations
+- FallBrief — HMRC manual references, statutory drafting, 100+ weaves (proprietary licence)
+- FallSecurity — GDPR + AML compliance, client identity verification
+- FallCRM Elite — client portfolio view, deadline calendar per client
+- Botler — in-browser LLM for private draft work
+- KardV5 — tax tribunal skeletons, HMRC penalty appeals
+
+## Live surfaces
+
+- Showroom: https://sjgant80-hub.github.io/accountinghouse/
+- Concierge install: https://sjgant80-hub.github.io/fallforge/install.html
+- Vertical spec: https://sjgant80-hub.github.io/fallhub/verticals/accounting.html
+- Modules marketplace: https://sjgant80-hub.github.io/fallhub/modules.html
+- Repo: https://github.com/sjgant80-hub/accountinghouse
+
+## Publisher
+
+AI-Native Solutions · https://www.ai-nativesolutions.com/ · hello@ai-nativesolutions.com
